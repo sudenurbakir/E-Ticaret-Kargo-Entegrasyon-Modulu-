@@ -11,14 +11,15 @@ Bu proje, e-ticaret platformunda satış yapan firmaların kargo işlemlerini te
 - Kargo süreçlerini baştan sona dijital ve merkezi hale getirmek
 - Operasyonel verimliliği artırmak
 - Kargo takip ve iade süreçlerini kolaylaştırmak
-- Birden fazla kargo firması arasında esnek yönetim sağlamak
+- Kullanıcının kendi kargo entegrasyon bilgilerini kolayca girebilmesini sağlamak
 
-## Desteklenen Kargo Firmaları (Hayali)
+## Desteklenen Kargo Firmaları
 
-- SwiftKargo
-- Atlas Lojistik  
-- Nova Express
-- PowerTaşıma
+- Pusula Kargo
+- Meltem Dağıtım  
+- Kozalak Lojistik
+- Yelken Ekspres
+- **Kullanıcının Kendi Kargo Firması** (Özel entegrasyon)
 
 ## Özellikler
 
@@ -28,6 +29,8 @@ Bu proje, e-ticaret platformunda satış yapan firmaların kargo işlemlerini te
 - İade kargo yönetimi
 - Kargo maliyeti hesaplama ve firma karşılaştırması
 - Kargo dashboard ve performans raporları
+- **Kargo Entegrasyon Ayarları** (API Key, Secret, Kullanıcı Bilgileri girişi)
+- Kullanıcının kendi kargo firmasını sisteme ekleyebilmesi
 
 ## Proje Dosya Yapısı
 
