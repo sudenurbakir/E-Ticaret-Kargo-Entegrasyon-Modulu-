@@ -1,4 +1,4 @@
-# 05 - Fonksiyonel Olmayan Gereksinimler
+# 04 - Fonksiyonel Olmayan Gereksinimler
 
 ## 1. Performans Gereksinimleri
 - Sistem aynı anda en az 50 siparişin kargoya verilmesini sorunsuz desteklemeli
