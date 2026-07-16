@@ -48,6 +48,4 @@ Sistem her gün otomatik olarak şu bilgileri günceller:
 
 ---
 
-**Commit Mesajı Önerisi:**
-```bash
-git commit -m "Update: 06_Surec_Akisları.md - Süreçler daha otomatik hale getirildi (bildirim, takip, iade)"
+
