@@ -46,6 +46,4 @@ Bu proje, e-ticaret platformunda satış yapan firmaların kargo işlemlerini te
 - Figma (mockup tasarımları)
 - Markdown (dokümantasyon)
 
-## Durum
 
-**Proje Aşaması:** Dokümantasyon + Tasarım Aşamasında
